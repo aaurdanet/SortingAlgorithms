@@ -37,9 +37,3 @@ Usage
 
 Ensure you have input files named "input1.txt," "input2.txt," and "input3.txt" with appropriate data. Compile and run the program, and it will display sorting results for each dataset.
 
-bash
-
-$ gcc your_program.c -o your_program
-$ ./your_program
-
-Feel free to adapt and integrate these sorting algorithm implementations into your projects as needed.
